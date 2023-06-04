@@ -1,0 +1,8 @@
+Django
+django-allauth
+django-vite
+inertia-django
+python-decouple
+whitenoise
+black
+pillow
